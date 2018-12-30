@@ -1,6 +1,9 @@
 # python 3.7
+# -*-coding:UTF-8 -*
 # Amélioration de la table de multiplication en créant une fonction
 # TP by yishan le 29/12/2018
+
+
 
 def table(nb, max):
 	"""Fonction affichant la table de multiplication souhaitee"""
